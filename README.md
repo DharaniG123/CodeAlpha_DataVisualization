@@ -1,26 +1,27 @@
-# CodeAlpha_DataVisualization
-CodeAlpha_DataVisualization
+# Task 3 - Data Visualization
 
-Objective
+## Objective
+Visualize student marks using Python.
 
-To perform data visualization using Python libraries such as Pandas and Matplotlib.
-
-Tools Used
-
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Jupyter Notebook
 
-Description
+## Dataset
+Student marks dataset.
 
-This project analyzes sample data and visualizes it using charts and graphs. Data is loaded into a Pandas DataFrame and plotted to understand patterns and trends.
+## Visualizations Created
+- Bar Chart of Student Marks
+- Pie Chart of Student Marks Distribution
+- Line Graph of Student Marks
 
-Files
-
+## Files Included
 - task3_DataVisualization.ipynb
+- student_marks_bar_chart.png
+- student_marks_pie_chart.png
+- student_marks_line_graph.png
 
-Output
-
-- Tabular data display
-- Graphs and charts generated using Matplotlib
+## Outcome
+Successfully visualized student marks using different types of charts and graphs.
